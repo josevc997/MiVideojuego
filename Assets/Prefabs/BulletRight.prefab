@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 7642214878781084578}
   - component: {fileID: -2536057241703111104}
   m_Layer: 0
-  m_Name: Bullet
+  m_Name: BulletRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -118,7 +118,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 8
   lifeTime: 2
-  left: 1
+  left: 0
   clip: {fileID: -2536057241703111104}
 --- !u!114 &7642214878781084578
 MonoBehaviour:
