@@ -33,11 +33,13 @@ public class PlayerRespawn : MonoBehaviour
 		if(life >=0){
 			life--;
 			CheckLife();
+			animator.Play("Hit");
 		}
 		
 	}
 	
 	public void PlayerHealed(){
+		animator.Play("DrinkPotion");
 		if(life < 3){
 			life++;
 			CheckLife();
@@ -62,8 +64,6 @@ public class PlayerRespawn : MonoBehaviour
 			corazonesVacios[0].gameObject.SetActive(true);
 			corazonesVacios[1].gameObject.SetActive(true);
 			corazonesVacios[2].gameObject.SetActive(true);
-			
-			animator.Play("Hit");
 			Invoke("Respawn", 0.5f);
 		}
 		else if(life == 1){
@@ -76,8 +76,6 @@ public class PlayerRespawn : MonoBehaviour
 			corazonesVacios[0].gameObject.SetActive(false);
 			corazonesVacios[1].gameObject.SetActive(true);
 			corazonesVacios[2].gameObject.SetActive(true);
-			
-			animator.Play("Hit");
 		}
 		else if(life == 2){
 			corazones[0].gameObject.SetActive(true);
@@ -87,8 +85,7 @@ public class PlayerRespawn : MonoBehaviour
 			corazonesVacios[0].gameObject.SetActive(false);
 			corazonesVacios[1].gameObject.SetActive(false);
 			corazonesVacios[2].gameObject.SetActive(true);
-			//Destroy(corazones[2].gameObject);
-			animator.Play("Hit");
+
 		}
 		else if(life == 3){
 			corazones[0].gameObject.SetActive(true);
@@ -98,8 +95,7 @@ public class PlayerRespawn : MonoBehaviour
 			corazonesVacios[0].gameObject.SetActive(false);
 			corazonesVacios[1].gameObject.SetActive(false);
 			corazonesVacios[2].gameObject.SetActive(false);
-			//Destroy(corazones[2].gameObject);
-			animator.Play("Hit");
+
 		}
     }
 }

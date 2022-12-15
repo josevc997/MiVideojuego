@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
 
-public class EscudoCollected : MonoBehaviour
+public class PotionCollected : MonoBehaviour
 {
-
-	public AudioSource clip;
+    public AudioSource clip;
 
     private void OnTriggerEnter2D(Collider2D collision)
 	{
@@ -17,7 +16,7 @@ public class EscudoCollected : MonoBehaviour
 			
 			Destroy(gameObject, 0.5f);
 			clip.Play();
-			//collision.GetComponent<PlayerRespawn>().PlayerHealed();
+			collision.GetComponent<PlayerRespawn>().PlayerHealed();
 		}
 	}
 }

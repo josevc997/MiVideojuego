@@ -545,7 +545,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -566,7 +566,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -587,7 +587,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -608,7 +608,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -629,7 +629,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -650,7 +650,7 @@ TextureImporter:
         width: 15
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -671,7 +671,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -692,7 +692,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -713,7 +713,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -734,7 +734,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -755,7 +755,7 @@ TextureImporter:
         width: 7
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -763,6 +763,321 @@ TextureImporter:
       bones: []
       spriteID: b4f569e54e6a7404d9aeb886fc26c133
       internalID: -1973067067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 327
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814c9f59882dd449ac24a5d29eecb08
+      internalID: -258140716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 327
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741c3e2b55058e948a1dccaae0d51f3c
+      internalID: -860941624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 761
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de47f4d626f3f346b424a35d61f4365
+      internalID: 793847376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 761
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e98436e8f41e3d4bbaa1edf85381528
+      internalID: 1142010263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 761
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b0bfee67cff4a44b26715f500533a9
+      internalID: 1520875847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 761
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b2b03be12e3dc4bb7ffd2c5558489f
+      internalID: 1561570748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 761
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299e42f621e5954f8dafb7e3a3e6c75
+      internalID: 955661400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 761
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065af1f5e0ba5954c8664a768e688658
+      internalID: -201028294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 761
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98c1798e91552b4aa27b589244e3783
+      internalID: -1591946052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 699
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e043b56eaf926448f8657e3965a7ed
+      internalID: -1587566230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 699
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7432cff105084d645932ec0736dd4a8d
+      internalID: 705953137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 699
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fffc801696bfcf40af88fe546d037b1
+      internalID: -1093262714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 700
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee8be6bd77237941950e4f7b25327e3
+      internalID: 573171264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 700
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23805c534f07dd4695a78bcb143ab72
+      internalID: 743777984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 700
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98274e1895ee6934f9c0194e07894abf
+      internalID: -1974072137
       vertices: []
       indices: 
       edges: []
@@ -779,36 +1094,51 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Corazon2-5: 648331128
-      Corazon1-1: 188807309
-      Link_3: 1617921098
-      Link_8: 1567495110
       Corazon1-2: -1227071988
-      Link_4: 1865977167
       Custom Edited - The Legend of Zelda Customs - Link(1)_3: 602221516
-      EscudoLink: -1692562432
-      Custom Edited - The Legend of Zelda Customs - Link(1)_4: -2096422341
       Link_7: -1875641451
-      Corazon1-3: 222812585
+      Link_13: 793847376
+      Link_24: 573171264
       Link_1: -1452327406
       Corazon1-4: 2064229076
       Corazon2-4: 417703898
       Corazon2-1: -1973067067
-      Custom Edited - The Legend of Zelda Customs - Link(1)_2: 1907087086
-      Link_0: 1439328476
+      Link_11: -258140716
       Custom Edited - The Legend of Zelda Customs - Link(1)_5: 2100580407
       Custom Edited - The Legend of Zelda Customs - Link(1)_6: -1393910585
       Link_5: -564826423
       Corazon1-5: -723962048
       Custom Edited - The Legend of Zelda Customs - Link(1)_0: 1196442701
-      Corazon1-6: -148040688
+      Link_16: 1561570748
+      Link_25: 743777984
       Custom Edited - The Legend of Zelda Customs - Link(1)_1: 1861249862
       Link_2: -184500283
       Link_6: -668681404
-      Link_Jump1: -1487933849
-      Link_10: -1091391464
       Corazon2-3: 2006320666
       Link_9: -538695333
+      Link_19: -1591946052
+      Link_22: 705953137
       Corazon2-2: 1902457330
+      Link_20: 1483734042
+      Corazon1-1: 188807309
+      Link_3: 1617921098
+      Link_8: 1567495110
+      Link_4: 1865977167
+      EscudoLink: -1692562432
+      Custom Edited - The Legend of Zelda Customs - Link(1)_4: -2096422341
+      Corazon1-3: 222812585
+      Custom Edited - The Legend of Zelda Customs - Link(1)_2: 1907087086
+      Link_0: 1439328476
+      Link_12: -860941624
+      Link_21: -1587566230
+      Link_18: -201028294
+      Link_14: 1142010263
+      Corazon1-6: -148040688
+      Link_15: 1520875847
+      Link_17: 955661400
+      Link_Jump1: -1487933849
+      Link_10: -1091391464
+      Link_23: -1093262714
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

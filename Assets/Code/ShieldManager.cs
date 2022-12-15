@@ -9,11 +9,23 @@ public class ShieldManager : MonoBehaviour
 	public Text levelCleared;
 	
 	public GameObject transition;
+
+	public Text escudosTotales;
 	
+	public Text escudosCogidas;
+
+	private int escudosTotalesEnNivel;
+
+	private void Start() {
+		escudosTotalesEnNivel = transform.childCount;
+	}
+
     // Update is called once per frame
     void Update()
     {
 		AllFruitsCollected();
+		escudosTotales.text = escudosTotalesEnNivel.ToString();
+		escudosCogidas.text = (escudosTotalesEnNivel-transform.childCount).ToString();
     }
 	
 	public void AllFruitsCollected()
